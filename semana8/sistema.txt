@@ -1,0 +1,5 @@
+El comando whoami muestra el usuario actual del sistema.
+
+El comando ver muestra la versión de Windows instalada.
+
+conocer esta información es útil para administrar servidores porque permite identificar quién está usando el sistema y qué sistema operativo se encuentra instalado.

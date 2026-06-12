@@ -1,0 +1,5 @@
+1. Activar la autenticación en dos pasos para los administradores.
+2. Realizar copias de seguridad periódicas de la información.
+3. Mantener actualizados los sistemas y aplicaciones de la plataforma.
+4. Asignar permisos según el rol de cada usuario.
+5. Monitorear actividades sospechosas dentro de la plataforma.
